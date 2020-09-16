@@ -7,5 +7,4 @@ def reverse_each_word(sentence)
     word.reverse << new_array
 binding.pry
   end
-
 end
